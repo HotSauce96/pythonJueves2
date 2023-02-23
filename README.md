@@ -1,4 +1,4 @@
-# Condiciones y ciclos con Python
+# Condicionales y ciclos con Python
 **Desarrollo de software cesde**  
 *programado por: Juan Pablo Jaramillo Giraldo*  
 ***Python, Jueves 23 Feb, 2023***
